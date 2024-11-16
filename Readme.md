@@ -27,7 +27,7 @@ You need a Twilio account to run this project. If you're using a trial account, 
 ![Twilio API Credentials](images/readme/twilio2.png)
 
 - **Service SID**: Service SID created for Twilio Verify Service (available under Verify > Services).
-  ![Twilio API Credentials](images/readme/twilio1.png)
+![Twilio API Credentials](images/readme/twilio1.png)
   
 You can see these details after logging into your Twilio account.
 
@@ -36,7 +36,7 @@ You can see these details after logging into your Twilio account.
 ### **2. Clone the Repository**
 
 ```bash
-git clone https://github.com/username/twilio-sms-sender.git
+git clone https://github.com/veliardabalci/Twilio-sms-sender-service.git
 cd twilio-sms-sender
 ```
 
